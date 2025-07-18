@@ -11,7 +11,7 @@ export default function StartPage() {
       </div>
 
       {/* Heading */}
-      <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-2">Hi, I'm Betsy!</h2>
+      <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-2">Hi, I am Betsy!</h2>
       <p className="text-lg md:text-xl font-semibold mb-8 text-gray-900">
         What can I help you with?
       </p>
